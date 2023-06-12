@@ -1,0 +1,20 @@
+{
+  "name": "bot-gpt-telegram",
+  "version": "1.0.0",
+  "description": "BOT GPT-3 Teleram",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js",
+    "start": "app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.1.4",
+    "nodemon": "^2.0.22",
+    "openai": "^3.2.1",
+    "telegraf": "^4.12.2"
+  }
+}
