@@ -1,1 +1,1 @@
-Bot ChatGPT for telegram
+Demo Bot ChatGPT for telegram
